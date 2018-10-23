@@ -1,0 +1,20 @@
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\bin\Debug\EnglishTranslate.exe.config
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\bin\Debug\EnglishTranslate.exe
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\bin\Debug\EnglishTranslate.pdb
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.csprojResolveAssemblyReference.cache
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.Form1.resources
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.Properties.Resources.resources
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.csproj.GenerateResource.cache
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.exe
+C:\Users\Rajko\source\repos\EnglishTranslate\EnglishTranslate\obj\Debug\EnglishTranslate.pdb
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\bin\Debug\EnglishTranslate.exe.config
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\bin\Debug\EnglishTranslate.exe
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\bin\Debug\EnglishTranslate.pdb
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.csprojResolveAssemblyReference.cache
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.Form1.resources
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.Properties.Resources.resources
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.csproj.GenerateResource.cache
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.exe
+C:\Users\Rajko\Desktop\ICT UCENJE\PROJECTS\EnglishTranslate\obj\Debug\EnglishTranslate.pdb
