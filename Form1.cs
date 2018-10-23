@@ -56,14 +56,17 @@ namespace EnglishTranslate
                     if (Global1 == 1)
                     {
                         textBox2.Text = line.Split('-')[1];
+                        return;
                     }
                     else if (Global2 == 1)
                     {
                         textBox2.Text = line.Split('-')[0];
+                        return;
                     }
                     else
                     {
                         textBox2.Text = "Ne postoji uneta rec";
+                        return;
                     }
 
 
